@@ -142,23 +142,23 @@ indirectly increase private sector spending.
 
 ### Is Stimulus Good for the Economy?
 
-Economists continue to debate the usefulness of economic stimulus programs. While stimulus efforts often have short-term benefits of 
-boosting demand and reinvigorating vital economic sectors, the longer-term effects can be more difficult to quantify. For instance, 
+Economists continue to debate the usefulness of economic stimulus programs. While stimulus efforts often have short-term benefits of
+boosting demand and reinvigorating vital economic sectors, the longer-term effects can be more difficult to quantify. For instance,
 an overstimulated economy could have the unintended consequence of crowding out private sector investment.
 
 ### How Does Quantitative Easing Stimulate the Economy?
 
-When central banks like the U.S. Federal Reserve opt to engage in quantitative easing, they buy securities from the market to increase 
+When central banks like the U.S. Federal Reserve opt to engage in quantitative easing, they buy securities from the market to increase
 the money supply. This means that banks have more reserves on hand, and the increased liquidity revitalizes lending and investing.
 
 ## The Bottom Line
 
-Economic stimulus can refer to monetary and fiscal policies that governments put in place to energize economic activity in the 
-private sector. Policymakers aim stimulus efforts at critical areas of the economy, with hopes that the multiplier effect will provoke 
+Economic stimulus can refer to monetary and fiscal policies that governments put in place to energize economic activity in the
+private sector. Policymakers aim stimulus efforts at critical areas of the economy, with hopes that the multiplier effect will provoke
 broader economic growth.
 
-There is still plenty of debate surrounding the long-term impact of economic stimulus programs. Proponents argue that targeted economic 
-stimulus can be a vital recession-fighting tool that avoids the risks associated with more drastic measures. Meanwhile, critics say that 
+There is still plenty of debate surrounding the long-term impact of economic stimulus programs. Proponents argue that targeted economic
+stimulus can be a vital recession-fighting tool that avoids the risks associated with more drastic measures. Meanwhile, critics say that
 economic stimulus packages may have unpredictable and negative impacts in the long term.
 
 ---
