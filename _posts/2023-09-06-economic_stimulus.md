@@ -6,22 +6,6 @@ tags:
 
 ---
 
-Economic stimulus is action by the government to encourage private sector economic activity. To stimulate the economy,
-the government adopts targeted, expansionary policies
-
-
-TODO
-
----
-
-https://www.cbpp.org/research/economy/fiscal-stimulus
-
-
-https://www.investopedia.com/terms/e/economic-stimulus.asp
-
-
---
-
 ## What Is Economic Stimulus? How It Works, Benefits, and Risks
 
 Economic stimulus is action by the government to encourage private sector economic activity. To stimulate the economy, the 
@@ -40,6 +24,14 @@ Although the long-term benefits of suth policies remain a subject of debate, the
 can have a big impact on financial markets and investors. This makes it important to be aware of the mechanisms of economic
 stimulus as well as the associated benefits and risks.  -- TODO
 
+* KEY TAKEAWAYS
+  - Economic stimulus refers to targeted fiscal and monetary policy intended to elicit an economic response from the private 
+    sector.
+  - Economic stimulus relies on encouraging private sector spending to make up for loss of aggregate demand.
+  - Fiscal stimulus measures include deficit spending and lowering taxes. Monetary stimulus measures are produced by central 
+    banks and may include lowering interest rates.
+  - Economists still argue over the usefulness of coordinated economic stimulus, with some claiming that it can do more long-term 
+    harm than short-term good.
 
 ---
 
@@ -49,6 +41,18 @@ stimulus as well as the associated benefits and risks.  -- TODO
 *[fiscal policy]:
 *[quantitative easing]: QE(quantitative easing)  [TODO 양적완화, QE 란?](/2023/08/30/economics_question.html#quantitative-easing)
 *[recession]:
+
+---
+
+ref
+
+https://www.cbpp.org/research/economy/fiscal-stimulus
+
+
+https://www.investopedia.com/terms/e/economic-stimulus.asp
+
+
+--
 
 
 
