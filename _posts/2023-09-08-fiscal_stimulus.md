@@ -40,7 +40,7 @@ people with the resources they need to continue purchasing goods and services.
 Other terms useful for understanding fiscal stimulus include the following:
 
 * Fiscal stimulus that comes from new legislation is ofthen referred to as 'discretionary' fiscal stimulus; examples
-  include the CARES Act's relief rebates(officially 'economic impact payments') of up to \$1,200 per qualifying adult.
+  include the CARES Act's relief rebates(officially 'economic impact payments') of up to $1,200 per qualifying adult.
   This contrasts with 'automatic stabilizers' - programs such as unemployment insurance(UI), Medicaid, and SNAP(formerly
   food stamps), which under preexisting law cushion the effects of a slowing economy. Autoatic stabilizers help because 
   they expand as the economy weakens and more people lose income and become eligible for the programs - and they shrink 
@@ -59,9 +59,9 @@ Other terms useful for understanding fiscal stimulus include the following:
 ## What Fiscal Stimulus Is Most Effective?
 
 Effective fiscal stimulus has a high 'bang for the buck'(formally the 'fiscal multiplier'). That is, for every dollar of cost
-to government, it generates the largest economic boost. For example, a policy whith a multiplier of 1.5 means that \$1.00 of
-that stimulus will lead to a \$1.50 increase in economic output. A multiplier of 0.75 means that \$1.00 of stimulus will lead to
-a \$.075 increase in output.
+to government, it generates the largest economic boost. For example, a policy whith a multiplier of 1.5 means that $1.00 of
+that stimulus will lead to a $1.50 increase in economic output. A multiplier of 0.75 means that $1.00 of stimulus will lead to
+a $.075 increase in output.
 
 Stimulus policies with high bang for the buck deliver resources quickly, and to the households most likely to need help making
 ends meet and so will quickly spend rather than save any additional dollar they receive. For example, increasing nutrition
@@ -71,7 +71,7 @@ spend also helps shore up the income of the businesses and workers that produced
 in turn, will be less likely to cut back on their own spending, shoringg up the incomes of still more business and workers. 
 An initial, well-targetd dollar that the government spends can generate well more than a dollar of additional spending through 
 the economy as its impacts ripple outwards. The Congressional Budget Office(CBO) and a range of economists generally rate
-measures such as SNAP and UI as highly effective stimulus, with multipliers greater than \$1 - for SNAP roughly \$1.5 - when 
+measures such as SNAP and UI as highly effective stimulus, with multipliers greater than $1 - for SNAP roughly $1.5 - when 
 demand is week.
 
 Federal fiscal relief for states and localities also rates as high bang-for-the-buck stimulus. In a recession, state budget
@@ -79,10 +79,10 @@ receipts fall, and rising unemployment and poverty increase the demands on state
 prohibited from running deficits in their operating budgets. So without federal help, many of the actions that states must take 
 to achieve budget balance in the face of falling revenues - cutting services, laying off workers, and raising taxes - would due
 to the COVID-19 crisis, states are on the brink of budget shortfalls that could be the largest on record, totaling more than
-\$765 billion.
+$765 billion.
 
 In contract, tax cuts for wealthier households, which they will likely save rather than spend quickly, do little to bolster
-demand and so typically generate far less than \$1 of output for each dollar of fiscal cost.
+demand and so typically generate far less than $1 of output for each dollar of fiscal cost.
 
 Broad-based tax cuts for businesses also typically rate much more poorly than measures that go to households that are 
 financially struggling. In a recession, the biggest problem that businesses usually face is lack of customers, and, irrespective 
